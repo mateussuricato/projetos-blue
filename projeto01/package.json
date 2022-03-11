@@ -1,0 +1,14 @@
+{
+  "name": "projeto01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "indes.js",
+  "scripts": {
+    "start": "node index2.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

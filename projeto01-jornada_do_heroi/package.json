@@ -4,11 +4,14 @@
   "description": "",
   "main": "indes.js",
   "scripts": {
-    "start": "node index2.js"
+    "start": "node modelo2.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.1"
   }
 }

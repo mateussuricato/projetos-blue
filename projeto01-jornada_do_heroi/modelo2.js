@@ -99,8 +99,7 @@ for (let j = 0; j < 5; j++) {
   }
 }
 
-const soma =
-  pergunta[0] + pergunta[1] + pergunta[2] + pergunta[3] + pergunta[4];
+const soma = pergunta[0] + pergunta[1] + pergunta[2] + pergunta[3] + pergunta[4];
 
 if (soma == 0) {
   console.log("\nO samurai falhou miseravelmente. ");

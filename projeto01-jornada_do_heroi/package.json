@@ -4,7 +4,7 @@
   "description": "",
   "main": "indes.js",
   "scripts": {
-    "start": "node modelo2.js"
+    "start": "node modelo3.js"
   },
   "author": "",
   "license": "ISC",

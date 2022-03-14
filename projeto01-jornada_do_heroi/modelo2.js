@@ -50,11 +50,11 @@ while (pergunta[i] != "SIM" && pergunta[i] != "NAO") {
 i++;
 
 pergunta.push(
-  prompt("O jovem samurai encrontrou o talismã da tigre? ").toUpperCase()
+  prompt("O jovem samurai encrontrou o talismã da cobra? ").toUpperCase()
 );
 
 while (pergunta[i] != "SIM" && pergunta[i] != "NAO") {
-  console.log("O jovem samurai encrontrou o talismã do tigre? ");
+  console.log("O jovem samurai encrontrou o talismã do cobra? ");
   pergunta[i] = prompt("Responda com sim ou nao: ").toUpperCase();
   console.clear();
 }

@@ -29,8 +29,14 @@ while (continuar == "sim") {
 
     const escolha2 = Math.floor(Math.random() * 3);
 
+    //isnum = /^\d+$/.test(escolha)
+
+    while (isNaN(escolha)) {
+      escolha = prompt("Digite um número: ");
+    }
+
     while (escolha > 2) {
-      escolha = prompt("Digite um dos números correspondente: ");
+      escolha = prompt("Digite um número correspondente: ");
     }
 
     console.clear();

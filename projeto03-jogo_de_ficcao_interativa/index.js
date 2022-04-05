@@ -1,3 +1,5 @@
+//Você so vai conseguir ganhar o game se escolher o ataque mais forte sempre, e as vezes mesmo assim se não tiver sorte vai passar sufoco no freeza e no cell, até parece que o sorteio dos números estão viciados, mas não estão kkkkkk
+
 const prompt = require("prompt-sync")();
 
 let Vegeta = {
